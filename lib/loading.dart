@@ -119,7 +119,7 @@ WeatherModel w1=WeatherModel();
                 ],
               ),
               Padding(
-                padding: EdgeInsets.only(left: 15.0),
+                padding: EdgeInsets.only(left: 25.0),
                 child: Row(
                   children: <Widget>[
                     Text(
